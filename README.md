@@ -6,6 +6,14 @@ The Revenue Insights Data Analysis Project amins to create the Revenue insights 
 
 This Analysis aims to identify the total revenue corresponding to market and month, Occupancy % of different properties and Average rating by customers in the different market areas with various room categories combined.
 
+Key Metrics:
+1.) RevPAR: Revenue Per Available Room
+2.) ADR: Average Daily Rate
+3.) DBRN: Daily Booked Room Nights
+4.) DSRN: Daily Sellable Room Nights
+5.) DBRN: Daily Booked Room Nights
+6.) Realization %: Successfully checkout of all the Booking.
+
 Key Insights:
 
 1.) Elite rooms have generated highest revenue by 554M with occupancy rate of 57.55%.
